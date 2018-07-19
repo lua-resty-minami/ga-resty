@@ -12,7 +12,7 @@ Table of Contents
 * [Author](#author)
 * [Copyright and License](#copyright-and-license)
 * [See Also](#see-also)
-* [According](#according)
+* [Reference](#reference)
 
 
 Status
@@ -95,6 +95,6 @@ See Also
 [Back to TOC](#table-of-contents)
 
 
-According
+Reference
 ========
 https://sometimesnaive.org/article/77
